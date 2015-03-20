@@ -10,4 +10,5 @@ Author URI: http://ashleyfalsario.com
 License: GPLv2 or later
 */
 
+add_action('admin_head', 'add_tinymce_dummytext');
  ?>
